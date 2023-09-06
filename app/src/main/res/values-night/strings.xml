@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">MyIndonesia</string>
+
+    <string name="indo_name">Wisata Indonesia</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="imgProfile_description">Foto Profil</string>
+    <string name="profileName">Cendana Putri Aulia</string>
+    <string name="profileEmail">cendanaaulia871@gmail.com</string>
+    <string name="imgDetail_description">Gambar</string>
+    <string-array name="data_name">
+        <item>Bedugul</item>
+        <item>Bromo</item>
+        <item>Candi Borobudur</item>
+        <item>Danau Toba</item>
+        <item>Kota Tua</item>
+        <item>Labuan Bajo</item>
+        <item>Pantai Kuta</item>
+        <item>Pantai Pink</item>
+        <item>Pantai Seminyak</item>
+        <item>Raja Ampat</item>
+        <item>Taman Komodo</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bedugul terletak di Kabupaten Tabanan, 48 kilometer di sebelah utara kota Denpasar atau 20 kilometer sebelah selatan Singaraja. Di daerah ini terdapat tiga danau kawah yaitu Danau Bratan, Danau Buyan, dan Danau Tamblingan. Tempat wisata utama di Bedugul adalah Pura Ulun Danu Bratan dan Kebun Raya Bali. Kebun Raya Bali dibuka pada tahun 1959. Kebun raya ini memiliki luas 1.575 hektare, menjadi salah satu kebun raya terbesar di Indonesia.</item>
+        <item>Gunung Bromo adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang. Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif. Gunung Bromo termasuk dalam kawasan Taman Nasional Bromo Tengger Semeru.</item>
+        <item>Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi dengan banyak stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil Buddha terbesar di dunia, sekaligus salah satu monumen Buddha terbesar di dunia.</item>
+        <item>Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera gunung supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 508 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 meter. Danau Toba merupakan adalah danau terbesar di Indonesia sekaligus danau vulkanik terbesar di dunia.</item>
+        <item>Kota Tua Jakarta, juga dikenal dengan sebutan Batavia Lama (Oud Batavia), adalah sebuah wilayah kecil di Jakarta, Indonesia. Wilayah khusus ini memiliki luas 1,3 kilometer persegi melintasi Jakarta Utara dan Jakarta Barat (Pinangsia, Taman Sari dan Roa Malaka). Dijuluki "Permata Asia" dan "Ratu dari Timur" pada abad ke-16 oleh pelayar Eropa, Jakarta Lama dianggap sebagai pusat perdagangan untuk benua Asia karena lokasinya yang strategis dan sumber daya melimpah.</item>
+        <item>Labuan Bajo merupakan salah satu kelurahan yang berada di kecamatan Komodo, Kabupaten Manggarai Barat, provinsi Nusa Tenggara Timur, Indonesia. Kota Labuan Bajo juga merupakan ibu kota dari kecamatan Kecamatan Komodo dan ibu kota Kabupaten Manggarai Barat. Sedang diwacanakan pengembangan Kota Labuan Bajo. Labuan Bajo telah ditetapkan sebagai destinasi wisata superprioritas di Indonesia. Di Labuan Bajo juga terdapat hutan buatan, yakni Hutan Solohana.</item>
+        <item>Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an. Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur. Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.</item>
+        <item>Pantai Pink dari Pulau Lombok terletak di desa Sekaroh, kecamatan Jerowaru, Kabupaten Lombok Timur adalah sebuah destinasi wisata pantai yang patut untuk dikunjungi karena keunikan pasir pantai yang berwarna pink. Pantai ini merupakan salah satu dari tujuh pantai di dunia yang memiliki pasir pantai berwarna pink, dan satu dari dua pantai di Indonesia yang memiliki pasir pantai berwarna pink.</item>
+        <item>Pantai seminyak terletak kawasan Desa Seminyak, Kecamatan Kuta, Kabupaten Badung. Pantai ini memiliki pasir yang sangat lembut dan landai. Di dekat pantai ini terdapat banyak restorant, hotel, maupun villa, sehingga banyak wisatawan mancanegara dan wisatawan lokal yang datang. Pantai ini terletak di sebelah utara pantai Kuta. Atmosfernya hampir sama dengan pantai Kuta, tetapi karena lokasinya agak jauh dari pusat keramaian Kuta, pengunjung pantai Legian dan Seminyak tidak sebanyak pantai Kuta.</item>
+        <item>Raja Ampat adalah salah satu kabupaten di provinsi Papua Barat Daya, Indonesia. Ibukota kabupaten ini terletak di Waisai. Kabupaten ini memiliki 610 pulau, termasuk kepulauan Raja Ampat. Empat di antaranya, yakni Pulau Misool, Salawati, Batanta dan Waigeo, merupakan pulau-pulau besar. Dari seluruh pulau hanya 35 pulau yang berpenghuni sedangkan pulau lainnya tidak berpenghuni dan sebagian besar belum memiliki nama.</item>
+        <item>Taman Nasional Komodo terletak di daerah administrasi Provinsi Nusa Tenggara Timur. Taman nasional ini terdiri atas tiga pulau besar Pulau Komodo, Pulau Rinca, dan Pulau Padar serta beberapa pulau kecil lainnya. Pada tahun 1980, taman nasional ini didirikan untuk melindungi komodo dan habitatnya. Di taman nasional ini terdapat 277 spesies hewan yang merupakan perpaduan hewan yang berasal dari Asia dan Australia, yang terdiri dari 32 spesies mamalia, 128 spesies burung, dan 37 spesies reptilia.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bedugul</item>
+        <item>@drawable/bromo</item>
+        <item>@drawable/candi_borobudur</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/kota_tua</item>
+        <item>@drawable/labuan_bajo</item>
+        <item>@drawable/pantai_kuta</item>
+        <item>@drawable/pantai_pink</item>
+        <item>@drawable/seminyak</item>
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/taman_komodo</item>
+    </integer-array>
+    <string-array name="data_cost">
+        <item>Rp. 100.000 - Rp. 200.000</item>  <!-- Ganti dengan informasi biaya yang sesuai -->
+        <item>Rp. 150.000 - Rp. 300.000</item>
+        <item>Rp. 50.000 - Rp. 100.000</item>
+        <item>Rp. 100.000 - Rp. 200.000</item>  <!-- Ganti dengan informasi biaya yang sesuai -->
+        <item>Rp. 150.000 - Rp. 300.000</item>
+        <item>Rp. 50.000 - Rp. 100.000</item>
+        <item>Rp. 100.000 - Rp. 200.000</item>  <!-- Ganti dengan informasi biaya yang sesuai -->
+        <item>Rp. 150.000 - Rp. 300.000</item>
+        <item>Rp. 50.000 - Rp. 100.000</item>
+        <item>Rp. 100.000 - Rp. 200.000</item>  <!-- Ganti dengan informasi biaya yang sesuai -->
+        <item>Rp. 150.000 - Rp. 300.000</item>
+        <!-- Tambahkan informasi biaya untuk tempat lainnya sesuai urutan -->
+    </string-array>
+
+    <string-array name="data_accommodation">
+        <item>Bedugul Hotel Restaurant dan Bedugul Wana Villas</item>  <!-- Ganti dengan informasi akomodasi yang sesuai -->
+        <item>Bawangan Bromo Hotel Resto</item>
+        <item>Shankara Borobudur</item>
+        <item>Gokhon Guest House</item>  <!-- Ganti dengan informasi akomodasi yang sesuai -->
+        <item>Hotel Santika Premiere Hayam Wuruk Jakarta</item>
+        <item>Le Pirate Hotel dan Loccal Collection Hotel</item>
+        <item>Sheraton Bali Kuta Resort</item>  <!-- Ganti dengan informasi akomodasi yang sesuai -->
+        <item>Telone Sunset Bungalows</item>
+        <item>Double-Six Luxury Hotel Seminyak</item>
+        <item>Agusta Eco Resort</item>
+        <item>Komodo Resort</item>
+        <!-- Tambahkan informasi akomodasi untuk tempat lainnya sesuai urutan -->
+    </string-array>
+
+    <string-array name="data_food">
+        <item>Restoran Mentari Bedugul</item>  <!-- Ganti dengan informasi makanan yang sesuai -->
+        <item>Rehat Bromo Rest Area dan De Potrek</item>
+        <item>Amata Resto, Paksi Coffee House, dan Alea Coffeeshop</item>
+        <item>Elios Restaurant dan Rumah Makan Islam Murni Parapat</item>  <!-- Ganti dengan informasi makanan yang sesuai -->
+        <item>Gado-gado Direksi dan Café Batavia</item>
+        <item>Seafood Wisata Kuliner Kampung Ujung</item>
+        <item>Warung Made Kuta</item>  <!-- Ganti dengan informasi makanan yang sesuai -->
+        <item>PinkCoco Restaurant Gili Island</item>
+        <item>Batik Restaurant Bar</item>
+        <item>Seafoodi Resto cafe</item>
+        <item>M-Grill Resto cafe</item>
+        <!-- Tambahkan informasi makanan untuk tempat lainnya sesuai urutan -->
+    </string-array>
+
+</resources>

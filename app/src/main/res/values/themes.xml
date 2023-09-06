@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyIndonesia" parent="AppTheme">
+        <!-- Customize your light theme here. -->
+        <item name="android:actionBarStyle">@style/CustomActionBar</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MyIndonesia" parent="Base.Theme.MyIndonesia" />
+
+    <!-- Define your custom themes here -->
+
+    <!-- Theme for the DetailActivity -->
+    <style name="DetailActivityTheme" parent="AppTheme">
+        <!-- Customize the action bar if needed -->
+        <item name="android:actionBarStyle">@style/CustomActionBar</item>
+        <!-- Other theme customizations specific to DetailActivity can go here -->
+    </style>
+
+    <!-- Theme for the AboutActivity -->
+    <style name="AboutActivityTheme" parent="AppTheme">
+        <!-- Customize the action bar if needed -->
+        <item name="android:actionBarStyle">@style/CustomActionBar</item>
+        <!-- Other theme customizations specific to AboutActivity can go here -->
+    </style>
+
+    <!-- Define your custom action bar style -->
+    <style name="CustomActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+</resources>

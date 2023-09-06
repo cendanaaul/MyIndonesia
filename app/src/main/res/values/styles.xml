@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary color for your app, used for the default action bar background. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Theme UI elements like buttons, text fields, etc. -->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Define your own custom styles here -->
+
+    <!-- Example custom text style -->
+    <style name="AppTheme.Text">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Example custom image style -->
+    <style name="AppTheme.Image">
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+</resources>
